@@ -1,0 +1,21 @@
+= RubyZipLoad - a simple US ZIP/location information loader
+
+== Overview
+
+Takes US Census data from places2k.txt and zcta5.txt and loads it into a database using Sequel.
+Support ZIP, city name, state, latitude and longitude.
+
+Download the data from http://www.census.gov/geo/www/gazetteer/places2k.html
+
+Requires RubyGems and Sequel to be installed.
+
+== Meta
+
+Written by Christopher Swenson
+
+Released under the MIT License: http://www.opensource.org/licenses/mit-license.php
+
+http://github.com/swenson/rubyziploader
+
+http://www.caswenson.com/
+
